@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "C C++"
+		},
+		{
+			"name": "ESP32 Test",
+			"path": "PlatformIO/Projects/ESP32 Test"
+		}
+	]
+}
